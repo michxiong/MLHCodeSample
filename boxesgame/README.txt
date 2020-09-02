@@ -2,7 +2,7 @@
 CIS 120 Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-Overview: I created the Box game for two players. Instructions are included when run Game.java file. Game also includes undo and save and load game functionality.
+Overview: I created the Box game for two players that lets them click edges to form boxes until board is filled and keeps track of their scores. Run Game.java file to play. All classes are found in the src folder. Game also includes undo and save/load game functionality.
 
 ===================
 =: Core Concepts :=
