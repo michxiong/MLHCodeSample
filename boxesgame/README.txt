@@ -46,10 +46,6 @@ Overview: I created the Box game for two players. Instructions are included when
   Move: Stores information about the edge that was selected and player that took turn for each
   move for the undo functionality. 
 
-- Were there any significant stumbling blocks while you were implementing your
-  game (related to your design, or otherwise)?
-
-
 - Evaluate your design. Is there a good separation of functionality? How well is
   private state encapsulated? What would you refactor, if given the chance?
 The functionality of all the game logic is stored under the mouse click event which
