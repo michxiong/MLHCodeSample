@@ -1,7 +1,8 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 CIS 120 Game Project README
-PennKey: Mjxiong
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
+Overview: I created the Box game for two players. Instructions are included when run Game.java file. Game also includes undo and save and load game functionality.
 
 ===================
 =: Core Concepts :=
@@ -54,11 +55,3 @@ PennKey: Mjxiong
 The functionality of all the game logic is stored under the mouse click event which
 could probably be separated better. I had two separate 2d Arrays for horizontal edges and 
 vertical edges which made a lot of code repetitive. 
-
-
-========================
-=: External Resources :=
-========================
-
-- Cite any external resources (libraries, images, tutorials, etc.) that you may
-  have used while implementing your game.
